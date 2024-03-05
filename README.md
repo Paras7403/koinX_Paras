@@ -6,7 +6,7 @@
 1. Created a schema named `Crypto.js` in the `models` folder to store cryptocurrency names and IDs.
 
 2. Utilized Coingecko's API to fetch the list of all cryptocurrencies.
-![Koinx_Backend_Assignment ](./assets/img1.1.2.png?raw=true " Koinx_Backend_Assignment ")
+![Koinx_Backend_Assignment ](./img1.1.2.png?raw=true " Koinx_Backend_Assignment ")
 
 3. Stored the fetched cryptocurrency data in a MongoDB database using the `Crypto` schema.
 ![Koinx_Backend_Assignment ](./assets/img1.1.png?raw=true " Koinx_Backend_Assignment ")
